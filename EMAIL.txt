@@ -1,0 +1,11 @@
+%FIRSTNAME%,
+
+I have created you a user on the domain with the following credentials:
+
+Username: %USERNAME%
+Password: %PASSLINK%
+
+please let me know if you have any questions.
+
+
+Seth
