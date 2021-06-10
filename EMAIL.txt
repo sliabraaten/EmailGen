@@ -1,11 +1,11 @@
 %FIRSTNAME%,
 
-I have created you a user on the domain with the following credentials:
+I have created you a user on the CPP automation domain with the following credentials:
 
 Username: %USERNAME%
 Password: %PASSLINK%
 
-please let me know if you have any questions.
+This password will expire after a couple weeks so please save it somewhere safe as soon as you are able.
 
 
-Seth
+Please let me know if you have any questions.

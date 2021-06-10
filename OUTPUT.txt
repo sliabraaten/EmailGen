@@ -1,51 +1,5 @@
-greg,
-
-I have created you a user on the domain with the following credentials:
-
-Username: gtalon
-Password: http://passwords.cybertrol.app/p/e4oz81s6o9vbs2z6
+Access Credentials
 
 
-please let me know if you have any questions.
-
-Seth
-
-
-tim,
-
-I have created you a user on the domain with the following credentials:
-
-Username: tanderson
-Password: http://passwords.cybertrol.app/p/3cfxgykfgazvx3gf
-
-
-please let me know if you have any questions.
-
-Seth
-
-
-blue,
-
-I have created you a user on the domain with the following credentials:
-
-Username: bjohnson
-Password: http://passwords.cybertrol.app/p/zrgwmghkpf06j93u
-
-
-please let me know if you have any questions.
-
-Seth
-
-
-test,
-
-I have created you a user on the domain with the following credentials:
-
-Username: tname
-Password: http://passwords.cybertrol.app/p/o7qc3hhchyj7sht5
-
-please let me know if you have any questions.
-
-Seth
 
 

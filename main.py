@@ -4,6 +4,7 @@
 #todo auto lookup passwords and generate links
 #todo auto send emails
 #todo document code
+#todo add cross platform support with file structure
 import os.path
 
 
@@ -32,10 +33,10 @@ users = []
 
 #EXPECTING FIRSTNAME LASTNAME PASSWORD URL
 userPath = input("Enter path for user file")
-userPath = os.path.dirname(__file__) + "\\" + userPath + ".txt"
+userPath = os.path.dirname(__file__) + "/" + userPath + ".txt"
 #EXPECTING FULL NAME WITH %FIRSTNAME, %LASTNAME, %USERNAME, %PASSLINK AS KEYS
-emailPath = os.path.dirname(__file__) + "\\" + input("Enter path for text file") + ".txt"
-destinationPath = os.path.dirname(__file__) + "\\" + input("Enter destination file path") + ".txt"
+emailPath = os.path.dirname(__file__) + "/" + input("Enter path for text file") + ".txt"
+destinationPath = os.path.dirname(__file__) + "/" + input("Enter destination file path") + ".txt"
 
 with open(userPath) as file:
     Users = file.readlines()
