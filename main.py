@@ -5,6 +5,8 @@
 #todo auto send emails
 #todo document code
 #todo add cross platform support with file structure
+#todo show riley how git works
+
 import os.path
 
 
